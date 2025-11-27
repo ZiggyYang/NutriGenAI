@@ -1,0 +1,5 @@
+{
+  "name": "NutriGen AI Dietitian",
+  "description": "A comprehensive AI-powered personalized nutritionist that generates weekly meal plans based on anthropometrics, lifestyle, and dietary preferences, with daily tracking and dynamic adjustment capabilities.",
+  "requestFramePermissions": []
+}
